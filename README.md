@@ -7,4 +7,4 @@ This repository contains a comprehensive case study of all CubeX X-ray Generator
 
 List of error code/error code combinations:
 
-[14]()
+[ER14]()

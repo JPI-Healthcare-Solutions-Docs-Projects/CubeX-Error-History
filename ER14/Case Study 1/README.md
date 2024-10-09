@@ -46,6 +46,7 @@ Broken Part: OP Board v1.3
 Serial Number: POP211105-031
 
 New Part: OP Board v1.4
+Warehouse: Inventory
 Serial Number: POP240724-049
 
 ### Time Spent

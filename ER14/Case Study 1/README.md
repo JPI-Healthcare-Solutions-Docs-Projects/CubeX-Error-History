@@ -43,6 +43,7 @@ Replaced OP Board with the newer model: OP Board v1.4
 ### Parts replaced
 
 Broken Part: OP Board v1.3
+Warranty: Active
 Serial Number: POP211105-031
 
 New Part: OP Board v1.4

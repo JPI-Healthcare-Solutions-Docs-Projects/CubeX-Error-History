@@ -5,10 +5,14 @@ This repository contains a comprehensive case study of all CubeX X-ray Generator
 - Parts Repair step by step
 - Estimated Time Spent
 
+To Create a report click below for the template:
+
+- [Master Report](https://github.com/JPI-Healthcare-Solutions-Docs-Projects/CubeX-Error-History/tree/main/Master%20Report)
+
 List of documented error codes/error code combinations
 
-  [ER14](https://github.com/JPI-Healthcare-Solutions-Docs-Projects/CubeX-Error-History/tree/main/ER14)
-  [ER32](https://github.com/JPI-Healthcare-Solutions-Docs-Projects/CubeX-Error-History/tree/main/ER32)
+[ER14](https://github.com/JPI-Healthcare-Solutions-Docs-Projects/CubeX-Error-History/tree/main/ER14)
+[ER32](https://github.com/JPI-Healthcare-Solutions-Docs-Projects/CubeX-Error-History/tree/main/ER32)
   
 
 CubeX Error Code documentation:

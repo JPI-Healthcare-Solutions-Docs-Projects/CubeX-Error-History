@@ -1,5 +1,5 @@
 
-# No Error code, CubeX 28 Unable to expose
+# No Error code, CubeX 28 Display Resetting after X-ray
 
 ### Table Of Content
 

@@ -11,3 +11,8 @@ List of documented error codes/error code combinations
   [ER32](https://github.com/JPI-Healthcare-Solutions-Docs-Projects/CubeX-Error-History/tree/main/ER32)
   
 
+CubeX Error Code documentation:
+
+[Error Code List from Service Manual.pdf](https://github.com/user-attachments/files/17401458/Ecotron.Error.Code.List.1.pdf)
+
+![image](https://github.com/user-attachments/assets/83ee9beb-b73a-49ce-bd2c-254ea50059f5)

@@ -34,7 +34,7 @@ Broken Part: {Part Type}
 - Warranty: Active/Not Active
 - Serial Number:
 
-New Part: OP {Part Type}
+New Part: {Part Type}
 - Warehouse: Inventory/Consignment
 - Serial Number:
 
